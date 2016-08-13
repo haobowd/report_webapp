@@ -2,6 +2,14 @@
 
 > vuejs 构建新生报道移动web前端
 
+## 截图
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/1.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/2.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/3.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/4.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/5.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/6.png)
+![image](https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/7.jpg)
 ## Build Setup
 
 ``` bash
