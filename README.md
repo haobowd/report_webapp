@@ -3,13 +3,13 @@
 > vuejs 构建新生报道移动web前端
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/1.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/2.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/3.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/4.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/5.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/6.png" width="320" />
-<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/7.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/1.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/2.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/3.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/4.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/5.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/6.png" width="293" />
+<img src="https://raw.githubusercontent.com/3tnet/report_webapp/master/screenshot/7.jpg" width="293" />
 ## Build Setup
 
 ``` bash
