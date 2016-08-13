@@ -1,6 +1,6 @@
 # report_webapp
 
-> A Vue.js project
+> vuejs 构建新生报道移动web前端
 
 ## Build Setup
 
